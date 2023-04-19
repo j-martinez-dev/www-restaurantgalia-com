@@ -16,10 +16,10 @@ script: reservation.js
             <div class="margin-b-40">
                 <h2 class="text-uppercase text-center">Horaires</h2>
                 <p style="text-align: justify;">
-                    Nous vous informons que nous acceptons des réservations à partir de 12h et jusqu' à 14h pour le service du midi et à partir de 19h et jusqu' à 22h pour le service du soir. Nous vous rappelons que le restaurant est fermé les dimanches soir et les lundis. Exceptionnellement le restaurant sera ouvert lundi 31 Décembre pour le service du soir.
+                    Nous vous informons que nous acceptons des réservations à partir de 12h et jusqu' à 13h30 pour le service du midi et à partir de 19h et jusqu' à 21h pour le service du soir. Nous vous rappelons que le restaurant est fermé le dimanche soir, le lundi et mardi midi.
                 </p>
             </div>
-            <form  name="form" method="POST" action="https://formspree.io/restaurantgalia@hotmail.com" class="reservation-form" id="reservation-form">
+            <form  name="form" method="POST" action="https://formspree.io/f/mknakglb" class="reservation-form" id="reservation-form">
                 <div class="row">
                     <div class="col-sm-6" id="date_validate">
                     </div>

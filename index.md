@@ -58,20 +58,14 @@ title: GALIA par Maxim Godigna
             <ul class="list-unstyled">
                 <li class="menu-box clearfix margin-b-20">
                     <div class="menu-content">
-                        <h4>Menu à la carte<span>36€</span></h4>
-                        <p>Entrée, Plat, Dessert (les midis et soirs du mardi au dimanche)</p>
+                        <h4>Menu à la carte<span>42€</span></h4>
+                        <p>Entrée, Plat, Dessert (midis et soirs)</p>
                     </div>
                 </li>
                 <li class="menu-box clearfix margin-b-20">
                     <div class="menu-content">
-                        <h4>Menu du jour<span>17€</span></h4>
-                        <p>Entrée, Plat ou Plat, Dessert (les midis du mardi au vendredi)</p>
-                    </div>
-                </li>
-                <li class="menu-box clearfix margin-b-20">
-                    <div class="menu-content">
-                        <h4>Menu du jour<span>21,50€</span></h4>
-                        <p>Entrée, Plat, Dessert (les midis du mardi au vendredi)</p>
+                        <h4>Menu du jour<span>25€</span></h4>
+                        <p>Entrée, Plat, Dessert (les midis du mercredi au vendredi)</p>
                     </div>
                 </li>
                 <li class="menu-box clearfix margin-b-20">
@@ -101,17 +95,19 @@ title: GALIA par Maxim Godigna
             <div class="col-md-8 col-md-offset-2 text-center">
                 <h1 class="text-uppercase">Distinctions</h1>
                 <p>
-                    En 2016, Galia a été classé 16ème meilleur restaurant de Paris puis il a été nominé au prix de la meilleure installation du guide culinaire Lebey.
+                    En 2016 Galia a été classé 16ème meilleur restaurant de Paris et fait partie des 3 meilleures nouvelles ouvertures. 
                 </p>
                 <p>
-                    Engagé à respecter les produits de qualité et participant activement à la promotion et la transmission du patrimoine culinaire français, le chef Godigna a reçu l'appellation de restaurant de qualité du Collège Culinaire de France et attribuée par le plus grand rassemblement de chefs.
+                    Engagé à respecter les produits de qualité et participant activement à la promotion et la transmission du patrimoine culinaire français, le chef Godigna a été récompensé par le Collège Culinaire de France avec l'appellation de restaurant de qualité. 
                 </p>
                 <p>
-                    En 2017 le chef devient membre actif de l'association Euro - Toques France et s'engage à défendre les produits sains de qualité. Euro-toques France est la seule association lobbyiste de chefs cuisiniers reconnue officiellement par la commision europénne
-                    et elle bénéficie d'une présence permanente à Bruxelles au coeur du système décisionnel européen.
+                    En 2017 le chef devient membre actif de l'association Euro - Toques France et s'engage à défendre les produits sains de qualité. Euro-toques France est la seule association lobbyiste de chefs cuisiniers qui bénéficie d'une présence permanente à Bruxelles au coeur de la commission européenne
                 </p>
                 <p>
-                    En 2018, il reçoit une toque du guide Gastronomique français Gault et Millau, confirmé en 2019 et 2020. Le titre de Maitre Restaurateur lui est également attribué. Ce titre est validé après les audits de contrôle qui valident ses connaissances en tant que chef cuisinier de métier.
+                    En 2018 il reçoit une toque du guide Gastronomique français Gault et Millau et celle-ci est confirmée par la suite chaque année. 
+                </p>
+                <p>
+                    Le titre de Maitre Restaurateur lui est également attribué par l’État.
                 </p>
             </div>
         </div>

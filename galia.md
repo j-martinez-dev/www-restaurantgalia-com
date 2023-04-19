@@ -24,11 +24,10 @@ title: Galia
         </div>
         <div class="col-md-6">
             <p style="text-align: justify;">
-                Aux fourneaux de son restaurant depuis septembre 2015, le chef Godigna propose une carte bistronomique qui change toutes les semaines en fonction de son inspiration. Les assiettes de ce jeune et talentueux cuisinier vous invitent à une découverte culinaire
-                caractérisée par une fusion mêlant tradition et exotisme, le tout préparé à base de produits frais et raffinés. Galia c'est la Gaule en Espagnol, les racines de la France et le prénom de sa fille.
+                Aux fourneaux de son restaurant depuis septembre 2015, le chef Godigna propose une carte bistronomique qui change toutes les semaines en fonction de son inspiration. Les assiettes de ce jeune et talentueux cuisinier vous invitent à une découverte culinaire caractérisée par une fusion mêlant tradition et exotisme, le tout préparé à base de produits frais et raffinés. Galia c'est la Gaule en Espagnol, les racines de la France et le prénom de sa fille.
             </p>
             <p style="text-align: justify;">
-                Pour démarrer votre séjour, une carte remplie d'apéritifs faits maison: le rhum arrangé vénézuélien du chef avec vanille bourbon et agrumes, un véritable thé glacé, la Galia Colada ou le cocktail canne.
+                Pour démarrer votre séjour, une carte remplie d'apéritifs faits maison: le rhum arrangé vénézuélien du chef, son ponche crema, la Galia Colada ou le cocktail canne.
             </p>
             <div class="space-30"></div>
         </div>
@@ -40,12 +39,10 @@ title: Galia
         </div>
         <div class="col-md-6 col-md-pull-6">
             <p style="text-align: justify;">
-                Au programme d' un voyage gustatif exceptionnel, vous pourrez déguster les incontournables de cette carte changeante dans laquelle les fruits et les légumes d'Amérique du sud sont à l' honneur: un foie gras maison assaisonné aux épices et sont chutney
-                goyave, le ceviche du moment, une crème potimaron et agrumes, les calamars laqués à la clémentine, le paleron confit au vin chaud et sa purée de patate douce ou sa célèbre pièce de boeuf de Race et chimichurri maison.
+                Au programme d' un voyage gustatif exceptionnel, vous pourrez déguster les incontournables de cette carte changeante dans laquelle les fruits et les légumes d'Amérique du sud sont à l' honneur. Avec un peu de chance, vous pourrez déguster ses plats signature: le foie gras avec anguille fumée et tamarin, les calamars laqués aux fruits de la passion et son incontournable ceviche à la goyave.
             </p>
             <p style="text-align: justify;">
-                Puis, pour commencer la descente avec douceur, on se laisse surprendre par le fromage du moment joliment présenté, accompagné d'une compote à base de banane plantain et de pistache. Côté dessert, le chef Godigna nous prouve sa créativité et son amour
-                pour ses racines avec cette création inspirée d'un dessert typique du Venezuela "le quesillo" et du quatre - quarts breton : son délicieux "caraquart".
+                Puis, pour commencer la descente avec douceur, laissez vous surprendre par le “caraquart”, sa création inspirée d'un dessert typique du Venezuela. 
             </p>
             <div class="space-30"></div>
         </div>
