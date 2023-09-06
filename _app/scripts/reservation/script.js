@@ -1,14 +1,14 @@
 $(".datepicker").datepicker({
   startDate: "0",
   autoclose: true,
-  beforeShowDay: function(day) {
-    var start = new Date("2019-02-25");
-    var end = new Date("2019-03-12");
-    if (day > start && end > day) {
-      return false;
-    }
+  beforeShowDay: function (day) {
+    //    var start = new Date("2019-02-25");
+    //    var end = new Date("2019-03-12");
+    //    if (day > start && end > day) {
+    //      return false;
+    //    }
 
-    if (day.getDay() === 1) {
+    if (day.getDay() === 3) {
       return false;
     } else {
       return true;
@@ -54,11 +54,11 @@ var options = {
   },
   errorElement: "span",
   errorClass: "error text-danger",
-  errorPlacement: function(error, element) {
+  errorPlacement: function (error, element) {
     var name = $(element).attr("name");
     error.appendTo($("#" + name + "_validate"));
   },
-  submitHandler: function(form, event) {
+  submitHandler: function (form, event) {
     event.preventDefault();
     $("#submitButton").hide();
     form.submit();
