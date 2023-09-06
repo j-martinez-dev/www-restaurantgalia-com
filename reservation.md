@@ -16,7 +16,7 @@ script: reservation.js
             <div class="margin-b-40">
                 <h2 class="text-uppercase text-center">Horaires</h2>
                 <p style="text-align: justify;">
-                    Nous vous informons que nous acceptons des réservations à partir de 12h et jusqu' à 13h30 pour le service du midi et à partir de 19h et jusqu' à 21h pour le service du soir. Nous vous rappelons que le restaurant est fermé le mardi soir, mercredi et dimanche soir (sauf pour les demandes de privatisation groupe).
+                    Nous vous informons que nous acceptons des réservations à partir de 12h et jusqu' à 13h30 pour le service du midi et à partir de 19h et jusqu' à 21h pour le service du soir. Nous vous rappelons que le restaurant est fermé le mardi soir, mercredi et dimanche soir (sauf pour les demandes de privatisations et groupes).
                 </p>
             </div>
             <form  name="form" method="POST" action="https://formspree.io/f/mknakglb" class="reservation-form" id="reservation-form">
