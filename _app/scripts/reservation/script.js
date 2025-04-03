@@ -2,11 +2,11 @@ $(".datepicker").datepicker({
   startDate: "0",
   autoclose: true,
   beforeShowDay: function (day) {
-    //    var start = new Date("2019-02-25");
-    //    var end = new Date("2019-03-12");
-    //    if (day > start && end > day) {
-    //      return false;
-    //    }
+        var start = new Date("2025-04-08");
+        var end = new Date("2025-04-24");
+        if (day > start && end > day) {
+          return false;
+        }
 
     if (day.getDay() === 3) {
       return false;
