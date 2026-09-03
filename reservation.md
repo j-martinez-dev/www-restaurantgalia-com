@@ -102,6 +102,10 @@ script: reservation.js
                 </div>
                 <input type="hidden" name="_subject" value="WEB: Nueva reservacion" />
                 <p style="text-align: justify;" id="responseMessage"></p>
+                <p style="text-align: center; font-style: italic;">
+                    Pensez à vérifier vos courriers indésirables (spams) pour retrouver la confirmation de votre réservation.<br />
+                    Don't forget to check your spam folder for your confirmation email.
+                </p>
                 <input type="submit" id="submitButton" class="btn btn-xl btn-dark btn-block" value="Submit" />
             </form>
         </div>
